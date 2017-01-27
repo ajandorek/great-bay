@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ajandorek/great-bay#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "inquirer": "^3.0.1",
     "sql": "^0.73.0"
   }
