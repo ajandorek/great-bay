@@ -1,0 +1,5 @@
+CREATE DATABASE great_bay;
+
+USE great_bay;
+
+--Tables 
